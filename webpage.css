@@ -1,0 +1,231 @@
+.main{
+background:rgb(245, 245, 231);
+ margin: 0;
+
+border: 5px;
+margin: auto;
+width: 80%;
+padding: 10px;
+
+padding: 3rem;
+margin-bottom: 2rem;
+
+}
+
+.title{
+  text-align: center;
+  font-family: Georgia,serif;
+  font-size: 1rem;
+  line-height: 1.65rem;
+  margin-bottom: 0;
+}
+
+.title2{
+
+text-align: center;
+font-family: Georgia,serif;
+margin-top: 0;
+padding-top: 0;
+padding-bottom: 20px;
+}
+
+
+.divider{
+  display: block; /* Make the image a block element */
+  width: 30%; /* Make the image fill the container width */
+  height: auto; /* Maintain the aspect ratio of the image */
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 40px;
+  margin-bottom:  20px;
+
+
+
+}
+
+body{
+  background-color: white;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+
+}
+
+
+
+.main-title{
+  text-align: center;
+  font-size: large;
+  background-color: white;
+  height: 80px;
+  width: 100%;
+
+
+  margin-bottom: 0px;
+  padding-bottom: 0%;
+
+}
+
+.main-text{
+  margin-bottom: 50px;
+  display: block;
+  
+  padding-left: 120px;
+  padding-right: 120px;
+
+  text-align: center;
+  font-family: Georgia,serif;
+  font-size: 1rem;
+  line-height: 1.65rem;
+  text-underline-offset: .125rem;
+}
+
+
+.wallpaper{
+
+  margin-bottom: 30px;
+  width: 100%;
+  height: 300px;
+
+}
+
+/*           BOOK I          */
+
+.book1{
+  padding-top: 50px;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 200px;
+  height: 250px;
+  text-align: right;
+
+  margin-bottom: 40px;
+
+}
+.para1{
+
+  padding-left: 120px;
+  padding-right: 120px;
+
+  text-align: center;
+  font-family: Georgia,serif;
+  font-size: 1rem;
+  line-height: 1.65rem;
+  text-underline-offset: .125rem;
+}
+
+
+/*           BOOK II          */
+
+.book2{
+
+  padding-top: 50px;
+
+
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 200px;
+  height: 250px;
+
+  margin-bottom: 40px;
+  
+}
+.para2{
+
+  /*
+  padding-left: 120px;
+  margin-bottom: 60px; */
+
+  padding-left: 120px;
+  padding-right: 120px;
+
+  text-align: center;
+  font-family: Georgia,serif;
+  font-size: 1rem;
+  line-height: 1.65rem;
+  text-underline-offset: .125rem;
+
+}
+
+/*           BOOK III          */
+
+.book3{
+
+  padding-top: 50px;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 200px;
+  height: 250px;
+
+  margin-bottom: 40px;
+}
+.para3{
+
+  padding-left: 120px;
+  padding-right: 120px;
+
+  text-align: center;
+  font-family: Georgia,serif;
+  font-size: 1rem;
+  line-height: 1.65rem;
+  text-underline-offset: .125rem;
+  
+}
+
+/*           BOOK IV          */
+.book4{
+
+  padding-top: 50px;
+
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 200px;
+  height: 250px;
+
+  margin-bottom: 40px;
+}
+.para4{
+
+  /*margin-left: auto;
+  margin-right: auto; */
+  padding-left: 120px;
+  padding-right: 120px;
+
+  text-align: center;
+  font-family: Georgia,serif;
+  font-size: 1rem;
+  line-height: 1.65rem;
+  text-underline-offset: .125rem;
+  
+}
+
+
+
+
+.last-p{
+  
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  width: 100%;
+
+  font-size: large;
+
+}
